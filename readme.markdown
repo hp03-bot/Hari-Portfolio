@@ -167,8 +167,7 @@ Visit the live portfolio to explore:
 
 🐙 GitHub: (https://github.com/hpaids86-bot/)
 
-🌐 Portfolio: https://hari-portfolio-9g4deopck-hari-prasath-r.vercel.app
-
+🌐 Portfolio: hariportfolio.pages.dev
 ---
 
 ## 🤝 Let's Connect
